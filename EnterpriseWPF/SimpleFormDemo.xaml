@@ -17,28 +17,29 @@
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="2*" />
         </Grid.ColumnDefinitions>
-        <TextBlock Grid.Row="0" 
-                   Grid.Column="0"
-                   Text="Full Name" 
-                   HorizontalAlignment="Right" 
-                   VerticalAlignment="Bottom"
-                   Margin="5"/>
-        <TextBox Grid.Row="0" 
-                 Grid.Column="1" 
-                 Width="250"
-                 Height="20"
-                 HorizontalAlignment="Left" 
-                 VerticalAlignment="Bottom"
-                 Margin="5"/>
-        <TextBlock Text="Gender" 
-                   Grid.Row="1"
-                   Grid.Column="0" 
-                   HorizontalAlignment="Right" 
-                   VerticalAlignment="Bottom"
-                   Margin="5"/>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Full Name" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5"/>
+        <TextBox Name="TxtFullName"  Grid.Row="0" Grid.Column="1" Width="250" Height="20" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5"/>
+        <TextBlock Text="Gender" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5"/>
         <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
-            <RadioButton GroupName="Gender" Content="Male" Margin="5" IsChecked="True" />
-            <RadioButton GroupName="Gender" Content="Female" Margin="5" />
+            <RadioButton Name="RdoMale" GroupName="Gender" Content="Male" Margin="5" IsChecked="True" />
+            <RadioButton Name="RdoFemale" GroupName="Gender" Content="Female" Margin="5" />
         </StackPanel>
+        <TextBlock Text="Do you own" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <CheckBox Name="ChkDesktop" Content="Desktop" Margin="5"></CheckBox>
+            <CheckBox Name="ChkLaptop" Content="Laptop" Margin="5"></CheckBox>
+            <CheckBox Name="ChkTablet" Content="Tablet" Margin="5"></CheckBox>
+        </StackPanel>
+        <TextBlock Text="Your job" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5"/>
+        <ComboBox Name="CmdJob" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5">
+            <ComboBoxItem Content="Programmer"></ComboBoxItem>
+            <ComboBoxItem Content="Designer"></ComboBoxItem>
+            <ComboBoxItem Content="Manager"></ComboBoxItem>
+            <ComboBoxItem Content="CTO"></ComboBoxItem>
+            <ComboBoxItem Content="CEO"></ComboBoxItem>
+        </ComboBox>
+        <TextBlock Text="Promised Delivery Date" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5"/>
+        <Calendar Name="CalDeliveryDate" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" Margin="5" />
+        <Button Name="SaveButton"  Content="Save" Grid.Row="5" Grid.Column="0" HorizontalAlignment="Right" Margin="5" Click="SaveButton_OnClick" ></Button>
     </Grid>
 </Window>
