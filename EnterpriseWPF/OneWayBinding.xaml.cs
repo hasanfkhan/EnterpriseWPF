@@ -15,18 +15,28 @@ using System.Windows.Shapes;
 namespace EnterpriseWPF
 {
     /// <summary>
-    /// Interaction logic for SimpleFormDemo.xaml
+    /// Interaction logic for OneWayBinding.xaml
     /// </summary>
-    public partial class SimpleFormDemo : Window
+    public partial class OneWayBinding : Window
     {
-        public SimpleFormDemo()
+        private Employee _emp;
+
+        public OneWayBinding()
         {
             InitializeComponent();
+            _emp = new Employee
+            {
+                Name = "Roger",
+                Title = "Senior Software Engineer"
+            };
+            DataContext = _emp;
         }
 
-        private void SaveButton_OnClick(object sender, RoutedEventArgs e)
-        {
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            _emp.Name = "James";
+            _emp.Title = "Software Engineer";
         }
     }
 }

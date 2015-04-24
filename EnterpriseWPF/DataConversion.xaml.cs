@@ -15,18 +15,14 @@ using System.Windows.Shapes;
 namespace EnterpriseWPF
 {
     /// <summary>
-    /// Interaction logic for SimpleFormDemo.xaml
+    /// Interaction logic for DataConversion.xaml
     /// </summary>
-    public partial class SimpleFormDemo : Window
+    public partial class DataConversion : Window
     {
-        public SimpleFormDemo()
+        public DataConversion()
         {
             InitializeComponent();
-        }
-
-        private void SaveButton_OnClick(object sender, RoutedEventArgs e)
-        {
-
+            DataContext = new Employee("Hasan Fahim", "Software Developer", new DateTime(2009, 6, 1));
         }
     }
 }

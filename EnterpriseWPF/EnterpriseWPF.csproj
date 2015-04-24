@@ -60,8 +60,25 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="BindingLists.xaml.cs">
+      <DependentUpon>BindingLists.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DataConversion.xaml.cs">
+      <DependentUpon>DataConversion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DateConverter.cs" />
+    <Compile Include="ElementBinding.xaml.cs">
+      <DependentUpon>ElementBinding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TwoWayBinding.xaml.cs">
+      <DependentUpon>TwoWayBinding.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DockPanelDemoWindow.xaml.cs">
       <DependentUpon>DockPanelDemoWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs" />
+    <Compile Include="OneWayBinding.xaml.cs">
+      <DependentUpon>OneWayBinding.xaml</DependentUpon>
     </Compile>
     <Compile Include="SimpleFormDemo.xaml.cs">
       <DependentUpon>SimpleFormDemo.xaml</DependentUpon>
@@ -72,6 +89,22 @@
     <Compile Include="WrapPanelDemoWindow.xaml.cs">
       <DependentUpon>WrapPanelDemoWindow.xaml</DependentUpon>
     </Compile>
+    <Page Include="BindingLists.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DataConversion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ElementBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TwoWayBinding.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="DockPanelDemoWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -88,6 +121,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="OneWayBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="SimpleFormDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

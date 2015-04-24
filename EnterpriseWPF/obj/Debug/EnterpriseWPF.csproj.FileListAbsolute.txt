@@ -40,3 +40,36 @@ D:\Hasan\Projects\Learning\PluralSight\Enterprise WPF with XAML and CSharp\Enter
 D:\Hasan\Projects\Learning\PluralSight\Enterprise WPF with XAML and CSharp\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.g.resources
 D:\Hasan\Projects\Learning\PluralSight\Enterprise WPF with XAML and CSharp\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.Properties.Resources.resources
 D:\Hasan\Projects\Learning\PluralSight\Enterprise WPF with XAML and CSharp\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.csproj.GenerateResource.Cache
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\bin\Debug\EnterpriseWPF.exe.config
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.exe
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.pdb
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.csprojResolveAssemblyReference.cache
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DockPanelDemoWindow.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\MainWindow.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\SimpleFormDemo.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\StackPanelDemoWindow.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\WrapPanelDemoWindow.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DockPanelDemoWindow.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\MainWindow.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\SimpleFormDemo.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\StackPanelDemoWindow.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\WrapPanelDemoWindow.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\App.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF_MarkupCompile.cache
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.g.resources
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.Properties.Resources.resources
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.csproj.GenerateResource.Cache
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\bin\Debug\EnterpriseWPF.exe
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\bin\Debug\EnterpriseWPF.pdb
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\OneWayBinding.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\OneWayBinding.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\TwoWayBinding.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\TwoWayBinding.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\BindingLists.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\BindingLists.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\ElementBinding.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\ElementBinding.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DataConversion.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DataConversion.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF_MarkupCompile.lref

@@ -15,18 +15,14 @@ using System.Windows.Shapes;
 namespace EnterpriseWPF
 {
     /// <summary>
-    /// Interaction logic for SimpleFormDemo.xaml
+    /// Interaction logic for BindingLists.xaml
     /// </summary>
-    public partial class SimpleFormDemo : Window
+    public partial class BindingLists : Window
     {
-        public SimpleFormDemo()
+        public BindingLists()
         {
             InitializeComponent();
-        }
-
-        private void SaveButton_OnClick(object sender, RoutedEventArgs e)
-        {
-
+            DataContext = Employee.GetEmployees();
         }
     }
 }

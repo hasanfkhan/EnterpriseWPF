@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Hasan\Projects\Learning\PluralSight\Enterprise WPF with XAML and CSharp\EnterpriseWPF\EnterpriseWPF\obj\Debug\
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\
 EnterpriseWPF
 none
 false
 DEBUG;TRACE
-D:\Hasan\Projects\Learning\PluralSight\Enterprise WPF with XAML and CSharp\EnterpriseWPF\EnterpriseWPF\App.xaml
-5117927993
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\App.xaml
+10446273507
 
-92018249403
-19-86829839
-DockPanelDemoWindow.xaml;MainWindow.xaml;SimpleFormDemo.xaml;StackPanelDemoWindow.xaml;WrapPanelDemoWindow.xaml;
+16-1544678454
+19820593930
+BindingLists.xaml;DataConversion.xaml;ElementBinding.xaml;TwoWayBinding.xaml;DockPanelDemoWindow.xaml;MainWindow.xaml;OneWayBinding.xaml;SimpleFormDemo.xaml;StackPanelDemoWindow.xaml;WrapPanelDemoWindow.xaml;
 
 False
 

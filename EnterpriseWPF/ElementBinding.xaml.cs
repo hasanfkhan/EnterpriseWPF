@@ -15,18 +15,13 @@ using System.Windows.Shapes;
 namespace EnterpriseWPF
 {
     /// <summary>
-    /// Interaction logic for SimpleFormDemo.xaml
+    /// Interaction logic for ElementBinding.xaml
     /// </summary>
-    public partial class SimpleFormDemo : Window
+    public partial class ElementBinding : Window
     {
-        public SimpleFormDemo()
+        public ElementBinding()
         {
             InitializeComponent();
-        }
-
-        private void SaveButton_OnClick(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }
