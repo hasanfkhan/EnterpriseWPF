@@ -43,7 +43,6 @@ D:\Hasan\Projects\Learning\PluralSight\Enterprise WPF with XAML and CSharp\Enter
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\bin\Debug\EnterpriseWPF.exe.config
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.exe
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.pdb
-D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.csprojResolveAssemblyReference.cache
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DockPanelDemoWindow.baml
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\MainWindow.baml
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\SimpleFormDemo.baml
@@ -73,3 +72,16 @@ D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DataConversion.g.cs
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF_MarkupCompile.lref
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\AsyncProcessing.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\AsyncProcessing.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\TabControlDemo.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\TabControlDemo.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DataGridDemo.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\DataGridDemo.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\EnterpriseWPF.csprojResolveAssemblyReference.cache
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\TreeViewDemo.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\TreeViewDemo.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\StatusBarDemo.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\StatusBarDemo.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\MenuDemo.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\MenuDemo.g.cs

@@ -60,15 +60,33 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AsyncProcessing.xaml.cs">
+      <DependentUpon>AsyncProcessing.xaml</DependentUpon>
+    </Compile>
     <Compile Include="BindingLists.xaml.cs">
       <DependentUpon>BindingLists.xaml</DependentUpon>
     </Compile>
     <Compile Include="DataConversion.xaml.cs">
       <DependentUpon>DataConversion.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DataGridDemo.xaml.cs">
+      <DependentUpon>DataGridDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DateConverter.cs" />
     <Compile Include="ElementBinding.xaml.cs">
       <DependentUpon>ElementBinding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDemo.xaml.cs">
+      <DependentUpon>MenuDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StatusBarDemo.xaml.cs">
+      <DependentUpon>StatusBarDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TabControlDemo.xaml.cs">
+      <DependentUpon>TabControlDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TreeViewDemo.xaml.cs">
+      <DependentUpon>TreeViewDemo.xaml</DependentUpon>
     </Compile>
     <Compile Include="TwoWayBinding.xaml.cs">
       <DependentUpon>TwoWayBinding.xaml</DependentUpon>
@@ -89,6 +107,10 @@
     <Compile Include="WrapPanelDemoWindow.xaml.cs">
       <DependentUpon>WrapPanelDemoWindow.xaml</DependentUpon>
     </Compile>
+    <Page Include="AsyncProcessing.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="BindingLists.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -97,7 +119,27 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="DataGridDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ElementBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MenuDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StatusBarDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TabControlDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TreeViewDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
