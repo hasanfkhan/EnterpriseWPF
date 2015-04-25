@@ -79,6 +79,9 @@
     <Compile Include="MenuDemo.xaml.cs">
       <DependentUpon>MenuDemo.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Shapes.xaml.cs">
+      <DependentUpon>Shapes.xaml</DependentUpon>
+    </Compile>
     <Compile Include="StatusBarDemo.xaml.cs">
       <DependentUpon>StatusBarDemo.xaml</DependentUpon>
     </Compile>
@@ -128,6 +131,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="MenuDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Shapes.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

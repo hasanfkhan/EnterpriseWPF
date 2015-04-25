@@ -85,3 +85,5 @@ D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\StatusBarDemo.g.cs
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\MenuDemo.baml
 D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\MenuDemo.g.cs
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\Shapes.baml
+D:\Projects\Personal\Pluralsight\Enterprise WPF\EnterpriseWPF\EnterpriseWPF\obj\Debug\Shapes.g.cs

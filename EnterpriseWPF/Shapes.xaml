@@ -1,0 +1,12 @@
+﻿<Window x:Class="EnterpriseWPF.Shapes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Shapes" Height="350" Width="525">
+    <Canvas>
+        <Rectangle Canvas.Top="50" Canvas.Left="50" Width="50" Height="50" Fill="Blue" Stroke="Red" StrokeThickness="5"/>
+        <Ellipse Canvas.Top="50" Canvas.Left="150" Width="50" Height="50" Fill="Green" Stroke="Red" StrokeThickness="2" />
+        <Line X1="0" Y1="0" X2="50" Y2="50" Stroke="Red" StrokeThickness="10" />
+        <!--<Polyline Points="100,100 200,150 125,175 175,250" Stroke="Blue" StrokeThickness="5" />-->
+        <Polygon Points="100,100 200,150 125,175 175,250" Stroke="Brown" StrokeThickness="5" Fill="Gray" />
+    </Canvas>
+</Window>
